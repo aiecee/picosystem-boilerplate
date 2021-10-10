@@ -20,7 +20,7 @@ $ cd ..
 ```
 
 3. Create the build folder and build hello-world.
-After making you'll be able to drag the `build/games/hello-world/hello-world.uf2` into the PicoSystem when it's booted into [DFU mode](#booting-picosystem-into-dfu-mode).
+After making you'll be able to drag the `build/games/hello-world/hello-world.uf2` into the PicoSystem when it's booted into [DFU mode](https://github.com/pimoroni/picosystem#booting-picosystem-into-dfu-mode).
 ```
 $ mkdir build
 $ cd build
